@@ -16,7 +16,7 @@ Installation
 
 ::
 
-    sudo apt-get install python-xlib
+    sudo apt-get install python-xlib python-pip
     sudo pip install https://github.com/chrisspen/freekey/zipball/master
     sudo freekey install
 
